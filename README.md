@@ -1,4 +1,4 @@
-# 📋 README.md - Auditoría de Ciberseguridad: Power BI & Microsoft Fabric
+# 📋 Auditoría de Ciberseguridad: Power BI & Microsoft Fabric
 
 ## 🔍 Resumen Ejecutivo
 
